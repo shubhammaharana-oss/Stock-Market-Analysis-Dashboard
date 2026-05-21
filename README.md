@@ -8,7 +8,7 @@ This project is an end-to-end stock market analytics pipeline built using Python
 - Daily stock returns
 
 #Project Pipeline
-Alpha Vantage API → Python → Pandas → MySQL → Power BI Dashboard
+ -Alpha Vantage API → Python → Pandas → MySQL → Power BI Dashboard
 
 #Features
 - Real-time stock data extraction using API
@@ -19,4 +19,5 @@ Alpha Vantage API → Python → Pandas → MySQL → Power BI Dashboard
 - Daily Return analysis
 
 #Dashboard
+
 <img width="633" height="393" alt="DASHBOARD" src="https://github.com/user-attachments/assets/1161d929-d2f6-49e3-9b99-7eecfe8ce072" />
